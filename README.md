@@ -6,7 +6,7 @@ Ini adalah proyek Tugas UAS Pemrograman V yang saya kerjakan untuk membuat sebua
 
 ## Deskripsi
 
-Proyek ini adalah implementasi dari Tugas UAS Pemrograman V, di mana saya membuat sebuah game 3D menggunakan Unity. Game ini [deskripsi singkat tentang gameplay atau tema game Anda].
+Proyek ini adalah implementasi dari Tugas UAS Pemrograman V, di mana saya membuat sebuah game 3D menggunakan Unity. 
 
 
 ## Instalasi
@@ -28,16 +28,14 @@ Untuk memainkan game ini, gunakan kontrol berikut:
 - Tombol [spasi] untuk melompat.
 - ...
 
-## Kontribusi
 
-Kontribusi terhadap proyek ini sangat dianjurkan. Jika Anda ingin berkontribusi, silakan buka issue atau kirim pull request di repository GitHub ini.
 
 ## Lisensi
 
-Tugas UAS Pemrograman V ini dilindungi oleh lisensi [tulis jenis lisensi di sini].
+Tugas UAS Pemrograman V ini dilindungi oleh lisensi [Unity]
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau masukan, silakan hubungi saya di (mailto:ramasanjaya67@gmail.com) atau melalui (@ImamRamaSanjaya).
+Jika Anda memiliki pertanyaan atau masukan, silakan hubungi saya di (mailto:ramasanjaya67@gmail.com) atau melalui X (@ImamRamaSanjaya).
 
 Terima kasih telah mengunjungi proyek Tugas UAS Pemrograman V saya!
