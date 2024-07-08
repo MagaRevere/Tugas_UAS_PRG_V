@@ -2,6 +2,7 @@
 
 Ini adalah proyek Tugas UAS Pemrograman V yang saya kerjakan untuk membuat sebuah game 3D menggunakan Unity Game Engine.
 
+https://drive.google.com/drive/folders/1JrBMHspTF8lAYb_ZbNYBqWmsLy7cEcjH?usp=sharing
 
 ## Deskripsi
 
