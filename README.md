@@ -2,7 +2,7 @@
 
 Ini adalah proyek Tugas UAS Pemrograman V yang saya kerjakan untuk membuat sebuah game 3D menggunakan Unity Game Engine.
 
-![Screenshot Game](screenshot.png)
+![Screenshot Game](Screenshot 2024-07-08 094657.png)
 
 ## Deskripsi
 
