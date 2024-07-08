@@ -38,6 +38,6 @@ Tugas UAS Pemrograman V ini dilindungi oleh lisensi [tulis jenis lisensi di sini
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau masukan, silakan hubungi saya di [email@example.com](mailto:ramasanjaya67@gmail.com) atau melalui [x](@ImamRamaSanjaya).
+Jika Anda memiliki pertanyaan atau masukan, silakan hubungi saya di (mailto:ramasanjaya67@gmail.com) atau melalui (@ImamRamaSanjaya).
 
 Terima kasih telah mengunjungi proyek Tugas UAS Pemrograman V saya!
